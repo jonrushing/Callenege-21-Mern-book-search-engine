@@ -40,10 +40,3 @@ module.exports = {
     return jwt.sign({ data: payload }, secret, { expiresIn: expiration });
   },
 };
-
-// //if (!token) {
-//   return req
-// }
-
-//req.body.token
-// let token = req.body.token || req.query.token || req.headers.authorization;
