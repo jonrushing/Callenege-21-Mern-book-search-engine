@@ -32,7 +32,6 @@
   [Email: jonrushingstuff@gmail.com](mailto:jonrushingstuff@gmail.com)
 
   ## Screenshots:
-  ![](screenshots/1.png)
  
   ![](screenshots/2.png)
  
