@@ -71,7 +71,7 @@ const SearchBooks = () => {
     }
 
     try {
-      console.log(bookToSave);
+      console.log(bookToSave, "testing 1");
       await saveBook({
         variables:{ bookToStore: bookToSave },
       });
