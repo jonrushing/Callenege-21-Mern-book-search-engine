@@ -31,7 +31,12 @@
 
   [Email: jonrushingstuff@gmail.com](mailto:jonrushingstuff@gmail.com)
 
+  ## Screenshots:
+  ![](screenshots/1.png)
+ 
+  ![](screenshots/2.png)
+ 
+  ![](screenshots/3.png)
 
-
- Deployment Link:
- https://dry-beyond-75443.herokuapp.com/
+  ## Deployment Link:
+  https://dry-beyond-75443.herokuapp.com/
